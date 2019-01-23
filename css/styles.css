@@ -21,11 +21,12 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+
 }
 
 .top-container {
   background-color: #E4F9F5;
-  padding: 80px;
+  padding: 10px;
 }
 
 .middle-container {
@@ -38,15 +39,12 @@ h3 {
   color: #11999E;
 }
 
-.pro {
-  text-decoration: underline;
-}
 
 .top-cloud {
   width: 100px;
   position: absolute;
-  right: 320px;
-  top: 35px;
+  right: 20%;
+  top: 10%;
 }
 
 .mountain {
@@ -56,10 +54,40 @@ h3 {
 .bottom-cloud {
   width: 100px;
   position: absolute;
-  right: 950px;
-  top: 200px;
+  right: 70%;
+  top: 30%;
 }
 
-.skilljpg {
-  width: 150px;
+.boy {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.books {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.desk {
+  width: 35%;
+    float: right;
+
+}
+.skill-row {
+  width: 50%;
+  margin:50px auto 50px auto;
+  text-align: left;
+  line-height: 2
+}
+.profile {
+  width: 50%;
+  margin:50px auto 50px auto;
+  text-align: left;
+  line-height: 2
+}
+.clearbooks {
+  clear: left;
+}
+.cleardesk {
+  clear: right;
 }
