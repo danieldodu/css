@@ -96,6 +96,9 @@ h3 {
 .footer-link {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  margin: 20px;
+  font: strong;
+
 }
 .footer {
   color: #EAF6F6;
